@@ -1,0 +1,15 @@
+{
+    "name": "brenno-duarte/php-array-collection",
+    "description": "A collection of functions for manipulating arrays in PHP",
+    "require": {
+        "php": "^8.3"
+    },
+    "autoload": {
+        "files": [
+            "src/array-assoc.php",
+            "src/array-extension.php",
+            "src/array-helpers.php",
+            "src/array-recursive.php"
+        ]
+    }
+}
