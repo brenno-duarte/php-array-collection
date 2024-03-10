@@ -6,6 +6,16 @@ A collection of functions for manipulating arrays in PHP.
 
 This component has several functions that are not present in PHP Core to manipulate arrays. Some of these functions allow you to manipulate multidimensional arrays, associative arrays, search for values in an array, and several other functions.
 
+## Requirements
+
+- PHP: >= 8.3
+
+## Installing via Composer
+
+```bash
+composer require brenno-duarte/php-array-collection dev-master
+```
+
 ## Available functions
 
 ### Associative arrays
